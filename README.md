@@ -1,2 +1,2 @@
-# Phare 1
+# Phase 1
 Assignment Number 1
